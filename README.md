@@ -1,4 +1,5 @@
-# Clothify-E-commerce
+Clothify is a responsive E-commerce web application built using HTML, CSS, JavaScript, Bootstrap, and MySQL. The platform provides users with a seamless product browsing experience, secure authentication, and shopping cart functionality.
+The features include :
 Responsive navigation bar with dropdown menus 
 Auto-rotating image slider 
 Manual image carousel controls (Next/Previous) 
